@@ -1,5 +1,14 @@
-# BACKUP FILES TO IGNORE
+# FILES TO IGNORE
 
-# Assign 2 - mfscrm
+# Provided by Professor Royce
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS.Store
+
+# My Backups
 fs_backup_16FEB20_1230_withIssues
 fs_backup_16FEB20_1530_workingButNoExtraCreditAddedYet
