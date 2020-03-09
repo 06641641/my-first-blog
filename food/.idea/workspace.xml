@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0b79ab3-dbe5-4eb0-ad10-4742ea345bb2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/migrations/0002_product_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/static/css/portfolio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/static/images/cupcakes.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/static/images/customer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/static/images/lunch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/customer_delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/customer_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/customer_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/product_delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/product_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/product_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/product_new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/service_delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/service_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/service_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/service_new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/short-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/crm/summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/registration/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/registration/password_reset_complete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/registration/password_reset_confirm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/registration/password_reset_done.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/registration/password_reset_email.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/registration/password_reset_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/registration/password_reset_subject.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/templates/registration/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/mfscrm/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/mfscrm/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/mfscrm/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/mfscrm/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YSLY7ppq8WQ0YfbxRteoWxBBX4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UNO-WebDev/code/simple-site" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0b79ab3-dbe5-4eb0-ad10-4742ea345bb2" name="Default Changelist" comment="" />
+      <created>1582931093650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582931093650</updated>
+      <workItem from="1582931095403" duration="31000" />
+      <workItem from="1582932257467" duration="92000" />
+      <workItem from="1582932419478" duration="7000" />
+      <workItem from="1582932553444" duration="7000" />
+      <workItem from="1582937640043" duration="226000" />
+      <workItem from="1583246644563" duration="77000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="456" key="FileChooserDialogImpl" timestamp="1583246720150">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="456" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1583246720150" />
+  </component>
+</project>
